@@ -1,0 +1,7 @@
+{
+  "name": "mi-sitio-php",
+  "description": "Un sitio PHP en Heroku",
+  "require": {
+    "php": ">=7.4"
+  }
+}
