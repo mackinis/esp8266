@@ -5,7 +5,7 @@ header("Content-Type: text/plain; charset=utf-8");
 
 $usuario_valido = "sxbbv58-rchbytec";
 $contrasena_valida = "12345678";
-$deviceSerial_valido = "SXBB-V58-V1.25";
+$deviceSerial_valido = "sxbbv58-rchbytec-srl-V1.28";
 $archivo_comandos = __DIR__ . "/comando.txt"; // Ruta absoluta
 
 // Validar parámetros GET
